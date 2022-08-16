@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-todo 
+TODO
 
 implementing clean architecture
+
 refactor code
